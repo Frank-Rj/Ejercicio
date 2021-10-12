@@ -1,0 +1,14 @@
+C:\Users\Español\Downloads\+UNAB+\POO\Visual Studio 2019\FrmMateria\FrmMateria\bin\Debug\FrmMateria.exe.config
+C:\Users\Español\Downloads\+UNAB+\POO\Visual Studio 2019\FrmMateria\FrmMateria\bin\Debug\FrmMateria.exe
+C:\Users\Español\Downloads\+UNAB+\POO\Visual Studio 2019\FrmMateria\FrmMateria\bin\Debug\FrmMateria.pdb
+C:\Users\Español\Downloads\+UNAB+\POO\Visual Studio 2019\FrmMateria\FrmMateria\bin\Debug\EntityFramework.dll
+C:\Users\Español\Downloads\+UNAB+\POO\Visual Studio 2019\FrmMateria\FrmMateria\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Español\Downloads\+UNAB+\POO\Visual Studio 2019\FrmMateria\FrmMateria\bin\Debug\EntityFramework.xml
+C:\Users\Español\Downloads\+UNAB+\POO\Visual Studio 2019\FrmMateria\FrmMateria\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Español\Downloads\+UNAB+\POO\Visual Studio 2019\FrmMateria\FrmMateria\obj\Debug\FrmMateria.csproj.AssemblyReference.cache
+C:\Users\Español\Downloads\+UNAB+\POO\Visual Studio 2019\FrmMateria\FrmMateria\obj\Debug\FrmMateria.Form1.resources
+C:\Users\Español\Downloads\+UNAB+\POO\Visual Studio 2019\FrmMateria\FrmMateria\obj\Debug\FrmMateria.Properties.Resources.resources
+C:\Users\Español\Downloads\+UNAB+\POO\Visual Studio 2019\FrmMateria\FrmMateria\obj\Debug\FrmMateria.csproj.GenerateResource.cache
+C:\Users\Español\Downloads\+UNAB+\POO\Visual Studio 2019\FrmMateria\FrmMateria\obj\Debug\FrmMateria.csproj.CoreCompileInputs.cache
+C:\Users\Español\Downloads\+UNAB+\POO\Visual Studio 2019\FrmMateria\FrmMateria\obj\Debug\FrmMateria.exe
+C:\Users\Español\Downloads\+UNAB+\POO\Visual Studio 2019\FrmMateria\FrmMateria\obj\Debug\FrmMateria.pdb
